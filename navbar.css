@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.avatar-large {
+  width: 50px;
+  border-radius: 50%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.left a:hover {
+    background-color: orange;
+}
+
+.right a:hover {
+    background-color: green;
+}
+
+
+.logo{
+	width: 30px;
+}
+
+.right{
+	float: right;
+}
+
+.avatar-large {
+  width: 30px;
+  border-radius: 50%;
+}
+
+.centre {
+  text-align: center;
+
+}
